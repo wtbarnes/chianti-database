@@ -1,0 +1,68 @@
+
+                       CHIANTI 
+
+         A DATABASE FOR EMISSION LINE SPECTROSCOPY
+
+                     Version 6.0.1
+                    ---------------
+
+ Oct 30, 2009
+
+--------------------------------------------------------------------------
+
+CHIANTI consists of a database of atomic data and IDL procedures for
+calculating spectroscopic emission line intensities from optically thin
+astrophysical spectra as a function of density and temperature. 
+
+CHIANTI includes atomic parameters such as ion level energies, ionization
+potentials, spectroscopic informations, and transition rates for spontaneous 
+radiative decay, electron and proton excitation and de-excitation, and
+parameters for the calculation of continuum radiation.
+
+The original paper describing the database has appeared in 1997 in Astronomy 
+and Astrophysics Supplement Series, 125, 149, authored by K. P. Dere (NRL), 
+E.  Landi (U. Florence), H. E. Mason (U. Cambridge), B. Monsignori Fossi
+(Arcetri) and P. R. Young (U. Cambridge). Since then, CHIANTI has undergone
+several major updates to include data for many more ions and physical
+processes, as well as to update and to expand the data of the ions already
+in the database.
+
+With Version 6, CHIANTI includes a complete database for total ionization
+and recombination rates, as well as routines to read the files that contain
+the data and to calculate the ionization balance. Data for new ions have
+been included, and data for many existing ions have been updated or expanded.
+
+Version 6.0.1 corrects a problem in the calculation of continuum radiation
+for isothermal plasmas, and in the inclusion of ionization and recombination
+effects into level populations, as well as a few typos in cr_7.wgfa, mn_8.wgfa,
+fe_18.cilvl and fe_18.reclvl.
+
+The CHIANTI database, IDL software and User Guides are distributed freely
+and they are available in the Internet, at the following addresses:
+
+Naval Research Laboratory, USA     : http://chianti.nrl.navy.mil/chianti.html
+University of Florence, Italy      : http://www.arcetri.astro.it/science/chianti/chianti.html
+University of Cambridge, UK        : http://www.damtp.cam.ac.uk/user/astro/chianti
+Rutherford Appleton Laboratory, UK : http://www.chianti.rl.ac.uk
+
+CHIANTI is also freely distributed as part of the SolarSoft package 
+(http:www.lmsal.com/solarsoft).
+
+--------------------------------------------------------------------------
+
+If you have any questions or comments, the responsible parties are:
+
+Enrico Landi         enrico.landi@nrl.navy.mil
+Ken Dere             kdere@gmu.edu
+Peter Young          pyoung@ssd5.nrl.navy.mil
+Giulio Del Zanna     G.Del-Zanna@damtp.cam.ac.uk
+Massimo Landini      landini@arcetri.astro.it
+Helen Mason          H.E.Mason@damtp.cam.ac.uk
+
+Any problems should be addressed to CHIANTI HELP: chianti_help@louis14.nrl.navy.mil
+
+If you would like to get on a mailing list to get news about future progress
+with CHIANTI, send an e-mail to Enrico Landi.
+
+
+
