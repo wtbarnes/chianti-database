@@ -1,0 +1,35 @@
+      1     3p6                               1  S    0.0          0.000          0.000
+      2     3p5.3d                            3  P    0.0     405772.000     406401.000
+      3     3p5.3d                            3  P    1.0     408315.100     408929.000
+      4     3p5.3d                            3  F    3.0     429310.900     428408.000
+      5     3p5.3d                            3  F    2.0     433818.800     432855.000
+      6     3p5.3d                            3  D    3.0     455612.200     455712.000
+      7     3p5.3d                            1  D    2.0     456752.700     457699.000
+      8     3p5.3d                            3  D    1.0     460616.000     460331.000
+      9     3p5.3d                            3  D    2.0     462616.600     462934.000
+     10     3p5.3d                            1  F    3.0     465828.400     465739.000
+     11     3p5.3d                            1  P    1.0     584546.000     584533.000
+     12     2p5.3p6.3d                        3  P    0.0    5900167.640    5900167.640
+     13     2p5.3p6.3d                        3  P    1.0    5906620.318    5906620.318
+     14     2p5.3p6.3d                        3  P    2.0    5917105.920    5917105.920
+     15     2p5.3p6.3d                        3  F    3.0    5919525.675    5919525.675
+     16     2p5.3p6.3d                        1  D    2.0    5930011.277    5930011.277
+     17     2p5.3p6.3d                        3  D    3.0    5934850.785    5934850.785
+     18     2p5.3p6.3d                        3  D    1.0    5965501.007    5965501.007
+     19     2p5.3p6.3d                        3  F    2.0    6018735.605    6018735.605
+     20     2p5.3p6.3d                        3  D    2.0    6022768.526    6022768.526
+     21     2p5.3p6.3d                        3  F    3.0    6025994.865    6025994.865
+     22     2p5.3p6.3d                        1  P    1.0    6063097.765    6063097.765
+     23     1s.3p6.3d                         3  D    1.0   57558696.236   57558696.236
+     24     1s.3p6.3d                         3  D    2.0   57559502.821   57559502.821
+     25     1s.3p6.3d                         1  D    2.0   57561922.575   57561922.575
+ -1
+%filename: fe_9d.elvlc
+%observed energy levels (below ionization): Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%Theoretical energy levels (above ionization): Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., Melendez M., 2003, A&A, 410, 359
+%theoretical energy levels (below ionization): Fawcett & Mason, ADNDT 47, 17 (1991)
+%observed energy levels (above ionization): Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., Melendez M., 2003, A&A, 410, 359
+%Comment: the theoretical energies from Palmeri et al. have been used as experimental ones
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E. Landi - Feb 2005

@@ -1,0 +1,12 @@
+      1     3s2.3p3                           4  S    1.5          0.000          0.000
+      2     3s2.3p3                           2  D    1.5      24012.500      26699.091
+      3     3s2.3p3                           2  D    2.5      24249.600      26699.091
+      4     3s2.3p3                           2  P    0.5      39758.100      43368.190
+      5     3s2.3p3                           2  P    1.5      40080.199      43368.190
+ -1
+%filename: k_5.elvlc
+%observed energies: Fuhr, J.R., et al., "NIST Atomic Spectra Database" Ver. 2.0, March 1999, NIST Physical Reference Data
+%theoretical energies: Wilson, N. J., Bell, K. L. 2001, MNRAS 325, 159
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% P.R. Young - 12 Jun 2002

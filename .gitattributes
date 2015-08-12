@@ -1,0 +1,6 @@
+"fe/fe_11/fe_11_all.scups" filter=lfs diff=lfs merge=lfs -text
+"fe/fe_12/fe_12_all.scups" filter=lfs diff=lfs merge=lfs -text
+"fe/fe_13/fe_13_all.scups" filter=lfs diff=lfs merge=lfs -text
+"fe/fe_9/fe_9.scups" filter=lfs diff=lfs merge=lfs -text
+"ni/ni_11/ni_11.scups" filter=lfs diff=lfs merge=lfs -text
+"fe/fe_10/fe_10_all.scups" filter=lfs diff=lfs merge=lfs -text
