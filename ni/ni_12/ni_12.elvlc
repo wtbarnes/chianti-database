@@ -1,0 +1,47 @@
+      1     3s2.3p5                           2  P    1.5          0.000          0.000
+      2     3s2.3p5                           2  P    0.5      23629.000      23048.623
+      3     3s.3p6                            2  S    0.5     338615.000     337231.625
+      4     3s2.3p4(3P).3d                    4  D    2.5         -1.000     453154.687
+      5     3s2.3p4(3P).3d                    4  D    3.5     454000.000     453827.437
+      6     3s2.3p4(3P).3d                    4  D    1.5         -1.000     454794.625
+      7     3s2.3p4(3P).3d                    4  D    0.5         -1.000     457348.750
+      8     3s2.3p4(3P).3d                    4  F    4.5     485570.000     488304.562
+      9     3s2.3p4(1D).3d                    2  P    0.5         -1.000     490908.906
+     10     3s2.3p4(3P).3d                    4  F    3.5     492750.000     495354.531
+     11     3s2.3p4(3P).3d                    4  F    2.5         -1.000     501454.312
+     12     3s2.3p4(1D).3d                    2  P    1.5         -1.000     501956.031
+     13     3s2.3p4(3P).3d                    4  F    1.5         -1.000     502612.656
+     14     3s2.3p4(3P).3d                    4  P    0.5         -1.000     507833.469
+     15     3s2.3p4(1D).3d                    2  D    1.5         -1.000     508170.062
+     16     3s2.3p4(3P).3d                    4  P    1.5         -1.000     516378.156
+     17     3s2.3p4(3P).3d                    2  F    3.5     513290.000     516799.219
+     18     3s2.3p4(3P).3d                    4  P    2.5         -1.000     518123.344
+     19     3s2.3p4(1D).3d                    2  D    2.5         -1.000     522026.531
+     20     3s2.3p4(1D).3d                    2  G    3.5     526960.000     530872.437
+     21     3s2.3p4(1D).3d                    2  G    4.5     527230.000     531064.375
+     22     3s2.3p4(3P).3d                    2  F    2.5         -1.000     535503.125
+     23     3s2.3p4(1D).3d                    2  F    2.5         -1.000     565931.250
+     24     3s2.3p4(1D).3d                    2  F    3.5     567200.000     572053.437
+     25     3s2.3p4(1S).3d                    2  D    1.5         -1.000     599555.625
+     26     3s2.3p4(1S).3d                    2  D    2.5         -1.000     606914.937
+     27     3s2.3p4(1D).3d                    2  S    0.5     622840.000     630075.562
+     28     3s2.3p4(3P).3d                    2  P    1.5     648670.000     662011.937
+     29     3s2.3p4(3P).3d                    2  D    2.5     657230.000     669350.187
+     30     3s2.3p4(3P).3d                    2  P    0.5     657290.000     671182.062
+     31     3s2.3p4(3P).3d                    2  D    1.5     676420.000     689361.375
+ -1
+%filename: ni_12.elvlc
+% Experimental energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+% Theoretical energy levels: SUPERSTRUCTURE calculations
+%comment: SUPERSTRUCTURE calculations have been done using the following configurations:
+
+         3s2 3p5, 3s 3p6,
+         3s2 3p4 3d,  3s 3p5 3d,  3p6 3d,
+         3s2 3p3 3d2, 3s 3p4 3d2, 3p5 3d2,
+         3s2 3p2 3d3, 3s 3p3 3d3, 3p4 3d3,
+         3s2 3p4 4s,  3s2 3p4 4d, 3s2 3p4 4f
+
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data collaboration
+%
+% E. Landi 1998

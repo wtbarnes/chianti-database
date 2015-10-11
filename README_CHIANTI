@@ -1,0 +1,83 @@
+
+                       CHIANTI 
+
+         A DATABASE FOR EMISSION LINE SPECTROSCOPY
+
+                     Version 8.0   
+                    -------------
+
+September 2015
+
+--------------------------------------------------------------------------
+
+CHIANTI consists of a database of atomic data and IDL procedures for
+calculating spectroscopic emission line intensities from optically thin
+astrophysical spectra as a function of density and temperature. 
+
+CHIANTI includes atomic parameters such as ion level energies, ionization
+potentials, spectroscopic informations, and transition rates for spontaneous 
+radiative decay, electron and proton excitation and de-excitation, and
+parameters for the calculation of continuum radiation.
+
+The original paper describing the database has appeared in 1997 in Astronomy 
+and Astrophysics Supplement Series, 125, 149, authored by K. P. Dere (NRL), 
+E.  Landi (U. Florence), H. E. Mason (U. Cambridge), B. Monsignori Fossi
+(Arcetri) and P. R. Young (U. Cambridge). Since then, CHIANTI has undergone
+several major updates to include data for many more ions and physical
+processes, as well as to update and to expand the data of the ions already
+in the database.
+
+With Version 8.0, CHIANTI includes data for new neutrals/ions, as well as significant
+upgrades to the data of several important coronal Fe ions.
+In addition, the method for computing the differential emission measure  has been changed.
+The details can be found in the paper, accepted for publication
+in A&A and availavle on:
+
+http://arxiv.org/abs/1508.07631
+
+
+The CHIANTI database, IDL software and User Guides are distributed freely
+and they are available  at the following address:
+
+                 http://www.chiantidatabase.org
+
+CHIANTI is also freely distributed as part of the SolarSoft package 
+(http:www.lmsal.com/solarsoft). The Python suite of programs can be found
+at 
+
+                 http://chiantipy.sourceforge.net
+--------------------------------------------------------------------------
+
+Important note:
+---------------
+
+for various reasons, it has been necessary to modify the format
+of the elvlc and splups files.
+ The elvlc files have been restructured  but retain the same name, 
+while the splups files have been significantly revised and are now renamed
+as "scups" files. For  both the updated elvlc and new scups files, an
+ascii fixed text width format has been retained.
+We have modified the CHIANTI software to read these new files, but all 
+the main software is left unchanged. 
+
+The new database and IDL programs are  incompatible with the 
+previous CHIANTI versions and viceversa. 
+
+
+--------------------------------------------------------------------------
+
+The CHIANTI team has set up a Google Group, which is used by the team to send new
+announcements about CHIANTI and is also a place where users can post comments or
+questions. Once you've joined the group, questions or comments can be sent to
+chianti@googlegroups.com.
+
+In order to join the CHIANTI Google Group, please send an e-mail to Peter Young.
+He will then send an invitation for you to join the group.
+
+The group works as follows: when you accept the group invitation, your name and
+e-mail address are stored in the Google group account, and all future messages
+posted to the group will automatically be forwarded to your e-mail address.
+
+
+
+
