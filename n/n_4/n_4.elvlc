@@ -1,0 +1,29 @@
+      1     2s2                               1  S    0.0          0.000          0.000
+      2     2s.2p                             3  P    0.0      67209.203      67412.837
+      3     2s.2p                             3  P    1.0      67272.297      67412.837
+      4     2s.2p                             3  P    2.0      67416.297      67412.837
+      5     2s.2p                             1  P    1.0     130693.898     131954.397
+      6     2p2                               3  P    0.0     175535.406     176476.799
+      7     2p2                               3  P    1.0     175608.094     176476.799
+      8     2p2                               3  P    2.0     175732.906     176476.799
+      9     2p2                               1  D    2.0     188882.500     189865.848
+     10     2p2                               1  S    0.0     235369.297     237533.979
+     11     2s.3s                             3  S    1.0     377284.812     376828.046
+     12     2s.3s                             1  S    0.0     388854.594     388926.585
+     13     2s.3p                             1  P    1.0     404522.406     404170.633
+     14     2s.3p                             3  P    0.0     405971.594     405380.487
+     15     2s.3p                             3  P    1.0     405987.500     405380.487
+     16     2s.3p                             3  P    2.0     406022.812     405380.487
+     17     2s.3d                             3  D    1.0     420045.812     420060.047
+     18     2s.3d                             3  D    2.0     420049.594     420060.047
+     19     2s.3d                             3  D    3.0     420058.000     420060.047
+     20     2s.3d                             1  D    2.0     429159.594     429980.849
+ -1
+%filename: n_4.elvlc
+%energy levels:  Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%Theoretical energy levels: Ramsbottom, C.A., Berrington, K.A., Hibbert, A., Bell, K.L.,
+   Pyhs.Scripta, 1994, 50, 246
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1996

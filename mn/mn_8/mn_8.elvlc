@@ -1,0 +1,20 @@
+      1     3s2.3p6                           1  S    0.0          0.000          0.000
+      2     3s2.3p5.3d                        3  P    0.0     373658.000     377092.524
+      3     3s2.3p5.3d                        3  P    1.0     375710.000     379151.934
+      4     3s2.3p5.3d                        3  P    2.0     379993.000     383449.295
+      5     3s2.3p5.3d                        3  F    4.0     391836.000     397564.901
+      6     3s2.3p5.3d                        3  F    3.0     394921.000     400684.859
+      7     3s2.3p5.3d                        3  F    2.0     398564.000     404368.905
+      8     3s2.3p5.3d                        3  D    3.0     419374.000     426328.389
+      9     3s2.3p5.3d                        3  D    2.0     424641.000     427539.144
+     10     3s2.3p5.3d                        3  D    1.0     423337.000     430340.168
+     11     3s2.3p5.3d                        1  D    2.0     419817.000     431881.425
+     12     3s2.3p5.3d                        1  F    3.0     427531.000     434311.150
+     13     3s2.3p5.3d                        1  P    1.0     539214.000     552312.976
+ -1
+%filename: mn_8.elvlc
+%Observed energy levels: Smitt, R., & Svensson, L.A., 1983, Phys. Scripta, 27, 364
+%Theoretical energy levels: Landi & Young 2009, ApJ, in press
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi - Nov 2008

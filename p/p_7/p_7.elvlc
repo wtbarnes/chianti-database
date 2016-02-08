@@ -1,0 +1,11 @@
+      1     2s2.2p5                           2  P    1.5          0.000          0.000
+      2     2s2.2p5                           2  P    0.5       7273.000       7256.989
+      3     2s.2p6                            2  S    0.5     454725.000     470139.375
+ -1
+%filename: p_7.elvlc
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy levels: interpolated using Mg IV, Si VI, S VIII, Ca XII.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997
