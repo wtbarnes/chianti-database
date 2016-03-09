@@ -1,0 +1,38 @@
+      1     3s2.3p2                           3  P    0.0          0.000          0.000
+      2     3s2.3p2                           3  P    1.0       1624.900       1700.447
+      3     3s2.3p2                           3  P    2.0       4071.400       4264.956
+      4     3s2.3p2                           1  D    2.0      21864.000      24388.633
+      5     3s2.3p2                           1  S    0.0      48981.398      50810.832
+      6     3s.3p3                            5  S    2.0         -1.000     109858.320
+      7     3s.3p3                            3  D    1.0     160157.500     159074.891
+      8     3s.3p3                            3  D    2.0     160220.297     159140.938
+      9     3s.3p3                            3  D    3.0     160529.203     159467.156
+     10     3s.3p3                            3  P    0.0     185256.594     185508.125
+     11     3s.3p3                            3  P    1.0     185392.906     185533.688
+     12     3s.3p3                            3  P    2.0     185412.203     185524.141
+     13     3s.3p3                            1  D    2.0     203616.094     204917.250
+     14     3s2.3p3d                          3  F    2.0         -1.000     251294.031
+     15     3s2.3p3d                          3  F    3.0         -1.000     252821.078
+     16     3s2.3p3d                          3  F    4.0         -1.000     254954.094
+     17     3s.3p3                            1  P    1.0     252489.906     259580.797
+     18     3s.3p3                            3  S    1.0     245240.500     250706.188
+     19     3s2.3p3d                          3  P    0.0     289004.000     294409.000
+     20     3s2.3p3d                          3  P    1.0     288160.000     293670.750
+     21     3s2.3p3d                          3  P    2.0     286224.000     292080.000
+     22     3s2.3p3d                          1  D    2.0         -1.000     296810.719
+     23     3s2.3p3d                          3  D    1.0     295138.000     301840.250
+     24     3s2.3p3d                          3  D    2.0     295772.000     302535.531
+     25     3s2.3p3d                          3  D    3.0     296132.000     302998.688
+     26     3s2.3p3d                          1  F    3.0     324885.000     334258.469
+     27     3s2.3p3d                          1  P    1.0     333501.000     341654.375
+ -1
+%filename: ca_7.elvlc
+%observed energy levels: Fuhr, J.R., Kelleher, D.E., Martin, W.C., Musgrove, A., Sugar, J., Wiese, W.L.,
+        Dalton, G.R., Dragoset, R.A., Mohr, P.J., Olsen, K., Reader, J., Saloman, E.B., Sansonetti, C.J.,
+        Wiersma, G., "NIST Atomic Spectra Database" Ver. 2.0, March 1999, NIST Physical Reference Data
+%observed energy level 18: Kelly, R.L., 1987, J.Phys.Chem.Ref.Data, 16, Suppl.1
+%Theoretical energy levels: Landi & Bhatia, 2003, ApJ, 589, 1075
+%Comment: Theoretical energies are taken from the 25-configuration model of Landi & Bhatia 2003.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data collaboration
+% 
+% E. Landi - Dec 2002

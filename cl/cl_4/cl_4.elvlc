@@ -1,0 +1,12 @@
+      1     3s2.3p2                           3  P    0.0          0.000          0.000
+      2     3s2.3p2                           3  P    1.0        492.000          0.000
+      3     3s2.3p2                           3  P    2.0       1341.900          0.000
+      4     3s2.3p2                           1  D    2.0      13767.600          0.000
+      5     3s2.3p2                           1  S    0.0      32547.800          0.000
+ -1
+%filename: cl_4.elvlc
+%observed energy levels: Version 3.0.3 of the NIST online database. http://physics.nist.gov/PhysRefData/ASD/index.html
+%theoretical energies: No theoretical energies available.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  Peter Young -  20-Jun-2006

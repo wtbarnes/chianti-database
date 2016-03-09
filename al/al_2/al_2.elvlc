@@ -1,0 +1,28 @@
+      1     3s2                               1  S    0.0          0.000          0.000
+      2     3s.3p                             3  P    0.0      37393.030      36867.350
+      3     3s.3p                             3  P    1.0      37453.910      36867.350
+      4     3s.3p                             3  P    2.0      37577.790      36867.350
+      5     3s.3p                             1  P    1.0      59852.020      59440.320
+      6     3p2                               1  D    2.0      85481.350      84302.410
+      7     3s.4s                             3  S    1.0      91274.500      91279.500
+      8     3p2                               3  P    0.0      94084.960      94209.492
+      9     3p2                               3  P    1.0      94147.460      94209.492
+     10     3p2                               3  P    2.0      94268.680      94209.492
+     11     3s.4s                             1  S    0.0      95350.600      95350.758
+     12     3s.3d                             3  D    1.0      95551.440      95548.281
+     13     3s.3d                             3  D    2.0      95550.510      95548.281
+     14     3s.3d                             3  D    3.0      95549.420      95548.281
+     15     3s.4p                             3  P    0.0     105427.520     105457.570
+     16     3s.4p                             3  P    1.0     105441.500     105457.570
+     17     3s.4p                             3  P    2.0     105470.930     105457.570
+     18     3s.4p                             1  P    1.0     106920.560     106917.070
+     19     3s.3d                             1  D    2.0     110089.830     110088.484
+     20     3p2                               1  S    0.0     111637.330     111635.773
+ -1
+%filename: al_2.elvlc
+%observed energy levels: NIST database (http://physics.nist.gov/cgi-bin/AtData/main_asd)
+%theoretical energy levels: Aggarwal, K.M., & Keenan, F.P., 1998, J.Phys.B, 31, 4545
+%comment: Aggarwal & Keenan give only LS state energies
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% P.R. Young - 27-May-03

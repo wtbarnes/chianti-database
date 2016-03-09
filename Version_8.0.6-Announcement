@@ -1,0 +1,51 @@
+CHIANTI Database Version 8.06 and the CHIANTI IDL package version 8.06 
+released. 
+
+Updated database files:
+
+    mg_8.elvlc, mg_8.wgfa 
+        The energies of levels with n=2 (levels 1-15) of Mg VIII from Edlen (1983) have been restored from Version 7 replacing the NIST values originally used in Version 8, because the wavelengths derived from the Edlen energies are in much better agreement with SUMER observations
+
+    s_1.elvlc, s_1.wgfa, s_1.scups
+        The effective collision strengths to singlet levels as published by Tayal ( 2004, ApJSS, 153, 581) are not in the expected ratio of the statistical weights of the lower levels, so are not correct.  We would like to thank John Raymond for pointing this out.
+
+        The original calculation was carried out in LS coupling, and the level-resolved values were obtained with a simple algebraic transformation using the JAJOM program. The labelling of the ground configuration 3s2 3p4 3P levels was clearly inverted.  Unfortunately, the original LS calculation was lost (Tayal, priv. comm. 2016), so as a temporary fix we have swapped the labelling of levels 1,3.  The swap is however only accurate for transitions to singlet levels, so we are retaining only the levels of the ground configuration. This dataset should  be used with caution, until a new calculation becomes available. 
+
+    mn_10.elvlc, mn_10.wgfa
+        added NIST energies for levels 38 and 41-47, with consequent changes to the wavelengths
+        
+    chianti.ioneq
+        
+Update or new IDL procedures
+    
+    ch_rad_recomb
+    ch_diel_recomb
+    ch_tot_recomb
+    
+    make_ioneq_all.pro
+    
+    these are some of the others I found but it is probably not necessary to mention them
+    ch_pops.pro
+    convertname.pro
+    ch_element_ions.pro
+    ch_ion_exist.pro
+    setup_elements.pro
+    ascii_wvl_dem.pro
+    ch_check_str.pro	
+    ch_critical_density.pro
+    ch_find_iso_level.pro
+    ch_get_file.pro
+    ch_get_version
+    ch_ip.pro
+        ..........................
+
+
+If you use CHIANTI through SolarSoft that is automatically mirrored,
+the update will occur automatically within the next few days.  Otherwise,
+you will need to manually update your the SolarSoft directories.
+
+If you use CHIANTI through the stand-alone tar files, we recommend that
+you download and install the new tar files in your CHIANTI directories.
+The new tar file can be found at our web site:
+
+http://www.chiantidatabase.org/

@@ -1,0 +1,49 @@
+ 1  12.00  H 
+ 2  10.78  He
+ 3   1.36  Li
+ 4   1.66  Be
+ 5   3.03  B 
+ 6   8.35  C 
+ 7   7.71  N 
+ 8   8.61  O 
+ 9   4.41  F 
+10   7.90  Ne
+11   6.62  Na
+12   7.87  Mg
+13   6.79  Al
+14   7.86  Si
+15   5.49  P 
+16   7.23  S 
+17   5.10  Cl
+18   6.35  Ar
+19   5.44  K 
+20   6.64  Ca
+21   3.43  Sc
+22   5.26  Ti
+23   4.33  V 
+24   5.98  Cr
+25   5.70  Mn
+26   7.85  Fe
+27   5.25  Co
+28   6.55  Ni
+29   4.54  Cu
+30   4.92  Zn
+ -1
+%filename: sun_coronal_2012_schmelz_ext.abund
+%created for the CHIANTI atomic database by Peter Young, 11-Dec-2015
+%abundance: 
+   Schmelz, J.T., Reames, D.V., von Steiger, R., & Basu, S. 2012, ApJ, 755, 33
+         <bibcode="2012ApJ...755...33S">
+   Caffau, E., Ludwig, H.-G., Steffen, M., Freytag, B. & Bonifacio, P. 2011, Sol. Phys.
+         268, 255  <bibcode="2011SoPh..268..255C">
+   Lodders, K., Palme, H., & Gail, H.P. 2009, Astronomy, Astrophysics, and Cosmology, B:
+         Solar System, Landolt-Bornstein, New Series VI/4, Spring, Berlin, 560
+         <bibcode="2009LanB...4B...44L">
+%comment:
+   This file reproduces the abundances from the file sun_coronal_2012_schmelz.abund but
+   adds in values for the elements missing in this file. For these missing elements, the
+   photospheric abundances are taken from the sun_photospheric_2011_caffau.abund and
+   then multiplied by a scaling factor. The scaling factor comes from Schmelz et al.
+   (2012) and is 2.14 below FIP=9 eV, 0.71 above FIP=11 eV, and a linearly varying
+   factor between these two energies.
+ -1

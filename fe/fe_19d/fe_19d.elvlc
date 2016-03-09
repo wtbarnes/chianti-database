@@ -1,0 +1,24 @@
+      1     2s2.2p4                           3  P    2.0          0.000          0.000
+      2     2s2.2p4                           3  P    0.0      75254.360      75254.360
+      3     2s2.2p4                           3  P    1.0      89450.252      89450.252
+      4     2s2.2p4                           1  D    2.0     168898.852     168898.852
+      5     2s2.2p4                           1  S    0.0     325134.323     325134.323
+      6     2s.2p5                            3  P    2.0     922894.301     922894.301
+      7     2s.2p5                            3  P    1.0     984759.354     984759.354
+      8     2s.2p5                            3  P    0.0    1030089.418    1030089.418
+      9     2s.2p5                            1  P    1.0    1267628.635    1267628.635
+     10     2p6                               1  S    0.0    2134223.319    2134223.319
+     11     1s.2s2.2p5                        3  P    2.0   52148932.140   52148932.140
+     12     1s.2s2.2p5                        3  P    1.0   52210232.583   52210232.583
+     13     1s.2s2.2p5                        3  P    0.0   52278792.289   52278792.289
+     14     1s.2s2.2p5                        1  P    1.0   52358644.182   52358644.182
+     15     1s.2s.2p6                         3  S    1.0   53088603.404   53088603.404
+     16     1s.2s.2p6                         1  S    0.0   53301541.785   53301541.785
+ -1
+%filename: fe_19d.elvlc
+%observed energy levels: Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., 2003, A&A, 403, 1175
+%theoretical energy levels: Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., 2003, A&A, 403, 1175
+%Comment: the theoretical energies from Palmeri et al. have been used as experimental ones when the latter were unavailable
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E. Landi - Feb 2005
