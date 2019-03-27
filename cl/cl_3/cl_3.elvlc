@@ -1,0 +1,14 @@
+      1     3s2.3p3                           4  S    1.5          0.000          0.000
+      2     3s2.3p3                           2  D    1.5      18052.460      20057.787
+      3     3s2.3p3                           2  D    2.5      18118.430      20057.787
+      4     3s2.3p3                           2  P    0.5      29813.920      32293.498
+      5     3s2.3p3                           2  P    1.5      29906.450      32293.498
+ -1
+%filename: cl_3.elvlc
+%observed energies:  Ralchenko, Yu., Kramida, A.E., Reader, J., and NIST ASD Team (2010). 
+     NIST Atomic Spectra Database (ver. 4.0.1), [Online]. Available: http://physics.nist.gov/asd 
+     [2010, December 1]. National Institute of Standards and Technology, Gaithersburg, MD
+%theoretical energies: Ramsbottom, C.A., Bell, K.L., & Keenan, F.P. 2001, ADNDT, 77, 57
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   Peter Young, 1-Dec-2010

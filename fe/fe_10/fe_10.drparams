@@ -1,0 +1,13 @@
+    1
+   26   10   3.994e+01   5.621e+02   1.992e+03   8.325e+03   2.757e+04   7.409e+04   1.552e+05   4.388e+05   7.355e+05
+   26   10   6.485e-05   6.360e-05   3.720e-04   1.607e-03   3.516e-03   7.326e-03   2.560e-02   1.005e-01   1.942e-01
+%file:  fe_10.drparams
+ Lestinsky, M.; Badnell, N. R.; Bernhardt, D.; Grieser, M.; Hoffmann, J.; Lukic, D.; Mueller, A.; Orlov, D. A.; Repnow, R.; Savin, D. W.; Schmidt, E. W.; Schnell, M.; Schippers, S.; Wolf, A.; Yu, D.
+ Electron-Ion Recombination of Fe X Forming Fe IX and of Fe XI Forming Fe X: Laboratory Measurements and Theoretical Calculations
+ 2009ApJ...698..648L
+ DOI:  10.1088/0004-637X/698/1/648
+ adsRef:  http://adsabs.harvard.edu/abs/2009ApJ...698..648L
+
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+  K. Dere (GMU) - 2017 November 23
+ -1
