@@ -1,0 +1,28 @@
+      1     3p6.3d9                           2  D    2.5          0.000          0.000
+      2     3p6.3d8(3F).4s                    4  F    4.5       8393.900       8393.900
+      3     3p6.3d9                           2  D    1.5       1506.940       1506.940
+      4     3p6.3d8(3F).4s                    4  F    3.5       9330.040       9330.040
+      5     3p6.3d8(3F).4s                    4  F    2.5      10115.660      10115.660
+      6     3p6.3d8(3F).4s                    4  F    1.5      10663.890      10663.890
+      7     3p6.3d8(3F).4s                    2  F    3.5      13550.390      13550.390
+      8     3p6.3d8(3F).4s                    2  F    2.5      14995.570      14995.570
+      9     3p6.3d8(3P).4s                    4  P    2.5      23108.279      23108.279
+     10     3p6.3d8(1D).4s                    2  D    1.5      23796.180      23796.180
+     11     3p6.3d8(3P).4s                    4  P    0.5      24835.930      24835.930
+     12     3p6.3d8(3P).4s                    4  P    1.5      24788.200      24788.200
+     13     3p6.3d8(1D).4s                    2  D    2.5      25036.380      25036.380
+     14     3p6.3d8(3P).4s                    2  P    1.5      29070.930      29070.930
+     15     3p6.3d8(3P).4s                    2  P    0.5      29593.460      29593.460
+     16     3p6.3d8(1G).4s                    2  G    4.5      32499.530      32499.530
+     17     3p6.3d8(1G).4s                    2  G    3.5      32523.540      32523.540
+ -1
+%filename:  ni_2.elvlc
+%Observed energies: Ver. 3 of the NIST Atomic Database
+%Theoretical energies: none provided by Bautista (2004) so observed energies used.
+%Comment: The energies given to levels 11 and 12 by Bautista are reversed compared
+   to those in NIST. The NIST values are used here.
+   Bautista did not give the parent terms for the Ni II levels. These
+   have been derived from the energy level compilation at NIST.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   P.R. Young, Feb-2009

@@ -1,0 +1,20 @@
+      1     2s2.2p3                           4  S    1.5          0.000          0.000
+      2     2s2.2p3                           2  D    1.5      48358.000      51153.793
+      3     2s2.2p3                           2  D    2.5      48315.000      51103.484
+      4     2s2.2p3                           2  P    0.5      73203.000      71878.883
+      5     2s2.2p3                           2  P    1.5      73239.000      71869.781
+      6     2s.2p4                            4  P    2.5     215857.000     214782.828
+      7     2s.2p4                            4  P    1.5     216893.000     215754.969
+      8     2s.2p4                            4  P    0.5     217438.000     216327.578
+      9     2s.2p4                            2  D    1.5     297903.000     307992.312
+     10     2s.2p4                            2  D    2.5     297866.000     308003.438
+     11     2s.2p4                            2  S    0.5     350732.000     359122.562
+     12     2s.2p4                            2  P    1.5     372705.000     390599.469
+     13     2s.2p4                            2  P    0.5     373917.000     391776.656
+ -1
+%filename: na_5.elvlc
+%experimental energy levels: Edlen, B., 1984, Phys. Scripta, 30, 145.
+%theoretical energy levels: interpolated using NeIV,MgVI,SiVIII,S X,ArXII,CaXIV.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997

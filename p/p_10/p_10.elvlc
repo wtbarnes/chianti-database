@@ -1,0 +1,29 @@
+      1     2s2.2p2                           3  P    0.0          0.000          0.000
+      2     2s2.2p2                           3  P    1.0       3682.000       3727.338
+      3     2s2.2p2                           3  P    2.0       9031.000       9154.726
+      4     2s2.2p2                           1  D    2.0      59681.000      61964.051
+      5     2s2.2p2                           1  S    0.0     119960.000     116096.594
+      6     2s.2p3                            5  S    2.0     167731.000     155744.688
+      7     2s.2p3                            3  D    2.0     323176.000     325264.688
+      8     2s.2p3                            3  D    1.0     323379.000     325475.375
+      9     2s.2p3                            3  D    3.0     323230.000     325335.562
+     10     2s.2p3                            3  P    0.0     379931.000     381136.344
+     11     2s.2p3                            3  P    1.0     379906.000     381158.312
+     12     2s.2p3                            3  P    2.0     380138.000     381440.312
+     13     2s.2p3                            1  D    2.0     484700.000     500100.375
+     14     2s.2p3                            3  S    1.0     490551.000     504257.219
+     15     2s.2p3                            1  P    1.0     541990.000     555945.688
+     16     2p4                               3  P    2.0     742540.000     754765.562
+     17     2p4                               3  P    1.0     748958.000     761006.312
+     18     2p4                               3  P    0.0     751358.000     763406.250
+     19     2p4                               1  D    2.0     793113.000     813269.812
+     20     2p4                               1  S    0.0     902338.000     925762.562
+ -1
+%filename: p_10.elvlc
+%energy levels (n=2): Edlen, B., 1985, Phys Scr., 31, 345.
+%energy levels (n=3): Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+     NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy levels: Zhang, Sampson, ADNDT, 1996, 63, 275.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 2000

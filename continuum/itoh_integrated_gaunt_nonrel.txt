@@ -1,0 +1,16 @@
+ 1.42752e+00
+ 1.70677e-01
+-8.13616e-01
+-4.88059e-01
+ 1.33141e+00
+ 7.27788e-01
+-1.50917e+00
+-5.99317e-01
+ 9.86146e-01
+ 1.99586e-01
+-2.72392e-01
+ -1
+% Fit coefficients for non-relativistic, frequency integrated free-free Gaunt factor
+% Itoh et al. (2002, A&A, 382, 722)
+% Comment: Data taken from Table 2 of this work.
+-1

@@ -1,0 +1,29 @@
+      1     2s2                               1  S    0.0          0.000          0.000
+      2     2s.2p                             3  P    0.0      52367.060      52432.487
+      3     2s.2p                             3  P    1.0      52390.750      52432.487
+      4     2s.2p                             3  P    2.0      52447.110      52432.487
+      5     2s.2p                             1  P    1.0     102352.040     103251.835
+      6     2p2                               3  P    0.0     137425.700     138247.063
+      7     2p2                               3  P    1.0     137454.400     138247.063
+      8     2p2                               3  P    2.0     137502.010     138247.063
+      9     2p2                               1  D    2.0     145876.130     146422.493
+     10     2p2                               1  S    0.0     182519.880     185093.921
+     11     2s.3s                             3  S    1.0     238213.000     237164.274
+     12     2s.3s                             1  S    0.0     247170.260     246491.946
+     13     2s.3p                             3  P    0.0     259705.550     258881.288
+     14     2s.3p                             3  P    1.0     259711.220     258881.288
+     15     2s.3p                             3  P    2.0     259724.300     258881.288
+     16     2s.3p                             1  P    1.0     258931.290     258222.864
+     17     2s.3d                             3  D    1.0     270010.830     268922.252
+     18     2s.3d                             3  D    2.0     270011.930     268922.252
+     19     2s.3d                             3  D    3.0     270014.740     268922.252
+     20     2s.3d                             1  D    2.0     276482.860     276307.573
+ -1
+%filename: c_3.elvlc
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+  NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy level: levels 1 to 10: Berrington et al., ADNDT, 33, 195, 1985
+%theoretical energy level: levels 11 to 20: Berrington et al., J.Phys.B, 1989, 22, 665
+%produced as part of the Arcetri/Cambridge/NRL atomic data base collaboration 'CHIANTI'
+%
+% Enrico Landi 1996

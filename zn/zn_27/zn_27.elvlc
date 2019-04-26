@@ -1,0 +1,17 @@
+      1     2s2                               1  S    0.0          0.000          0.000
+      2     2s.2p                             3  P    0.0     409450.000     410796.125
+      3     2s.2p                             3  P    1.0     459443.000     461296.156
+      4     2s.2p                             3  P    2.0     640315.000     641251.125
+      5     2s.2p                             1  P    1.0     955349.000     968937.688
+      6     2p2                               3  P    0.0    1144439.000    1149937.250
+      7     2p2                               3  P    1.0    1296741.000    1300036.000
+      8     2p2                               3  P    2.0    1355187.000    1363760.375
+      9     2p2                               1  D    2.0    1583476.000    1589358.500
+     10     2p2                               1  S    0.0    1826481.000    1840525.250
+ -1
+%filename: zn_27.elvlc
+%Theoretical energy levels: Zhang, Sampson, ADNDT, 1992 , 52, 143
+%Experimental energy levels: Edlen, B., Phys. Scr., 1983, 28, 51.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997

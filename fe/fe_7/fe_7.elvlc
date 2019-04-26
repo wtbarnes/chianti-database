@@ -1,0 +1,16 @@
+      1     3p6 3d2                           3  F    2.0          0.000          0.000
+      2     3p6 3d2                           3  F    3.0       1051.500       1207.110
+      3     3p6 3d2                           3  F    4.0       2331.500       2633.696
+      4     3p6 3d2                           1  D    2.0      17475.500      18326.133
+      5     3p6 3d2                           3  P    0.0      20040.300      21508.514
+      6     3p6 3d2                           3  P    1.0      20430.100      21947.465
+      7     3p6 3d2                           3  P    2.0      21278.600      22935.102
+      8     3p6 3d2                           1  G    4.0      28927.300      32701.723
+      9     3p6 3d2                           1  S    0.0      67078.300      69573.461
+ -1
+%filename: fe_7.elvlc
+%observed energies: Fuhr et al., 1999, NIST Atomic Spectra Database Version 2.0
+%theoretical energies: Berrington, K.A., Nakazaki, S., Norrington, P.H., 2000, A&AS, 142, 313
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% P.R.Young - 15-Feb-2004

@@ -1,0 +1,115 @@
+      1    167    6.21e+13                  1s2.2s 2S0.5 - 1s.2s2.2p 3P0.0               
+      3    167    3.97e+12                  1s2.2p 2P1.5 - 1s.2s2.2p 3P0.0               
+      2    167    1.23e+14                  1s2.2p 2P0.5 - 1s.2s2.2p 3P0.0               
+      1    168    5.81e+13                  1s2.2s 2S0.5 - 1s.2s2.2p 3P1.0               
+      3    168    1.92e+13                  1s2.2p 2P1.5 - 1s.2s2.2p 3P1.0               
+      2    168    1.08e+14                  1s2.2p 2P0.5 - 1s.2s2.2p 3P1.0               
+      1    169    6.14e+13                  1s2.2s 2S0.5 - 1s.2s2.2p 3P2.0               
+      3    169    1.27e+14                  1s2.2p 2P1.5 - 1s.2s2.2p 3P2.0               
+      2    169    3.20e+12                  1s2.2p 2P0.5 - 1s.2s2.2p 3P2.0               
+      1    170    1.73e+12                  1s2.2s 2S0.5 - 1s.2s.2p2 5P1.0               
+      3    170    2.01e+11                  1s2.2p 2P1.5 - 1s.2s.2p2 5P1.0               
+      2    170    4.90e+11                  1s2.2p 2P0.5 - 1s.2s.2p2 5P1.0               
+      1    171    7.91e+11                  1s2.2s 2S0.5 - 1s.2s.2p2 5P2.0               
+      3    171    1.76e+11                  1s2.2p 2P1.5 - 1s.2s.2p2 5P2.0               
+      2    171    1.96e+10                  1s2.2p 2P0.5 - 1s.2s.2p2 5P2.0               
+      1    172    5.30e+12                  1s2.2s 2S0.5 - 1s.2s2.2p 1P1.0               
+      3    172    1.11e+14                  1s2.2p 2P1.5 - 1s.2s2.2p 1P1.0               
+      2    172    1.79e+13                  1s2.2p 2P0.5 - 1s.2s2.2p 1P1.0               
+      1    173    5.56e+12                  1s2.2s 2S0.5 - 1s.2s.2p2 5P3.0               
+      3    173    8.34e+11                  1s2.2p 2P1.5 - 1s.2s.2p2 5P3.0               
+      1    174    6.26e+12                  1s2.2s 2S0.5 - 1s.2s.2p2 3P0.0               
+      3    174    1.88e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 3P0.0               
+      2    174    1.50e+14                  1s2.2p 2P0.5 - 1s.2s.2p2 3P0.0               
+      1    175    3.35e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 3P1.0               
+      3    175    9.74e+12                  1s2.2p 2P1.5 - 1s.2s.2p2 3P1.0               
+      2    175    2.77e+12                  1s2.2p 2P0.5 - 1s.2s.2p2 3P1.0               
+      1    176    1.05e+14                  1s2.2s 2S0.5 - 1s.2s.2p2 3D2.0               
+      3    176    1.15e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 3D2.0               
+      2    176    5.06e+12                  1s2.2p 2P0.5 - 1s.2s.2p2 3D2.0               
+      1    177    1.06e+14                  1s2.2s 2S0.5 - 1s.2s.2p2 3D1.0               
+      3    177    2.84e+12                  1s2.2p 2P1.5 - 1s.2s.2p2 3D1.0               
+      2    177    2.42e+13                  1s2.2p 2P0.5 - 1s.2s.2p2 3D1.0               
+      1    178    1.35e+14                  1s2.2s 2S0.5 - 1s.2s.2p2 3D3.0               
+      3    178    2.05e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 3D3.0               
+      1    179    4.04e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 3P2.0               
+      3    179    8.28e+12                  1s2.2p 2P1.5 - 1s.2s.2p2 3P2.0               
+      2    179    2.57e+13                  1s2.2p 2P0.5 - 1s.2s.2p2 3P2.0               
+      1    180    3.00e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 3S1.0               
+      3    180    1.57e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 3S1.0               
+      2    180    7.38e+13                  1s2.2p 2P0.5 - 1s.2s.2p2 3S1.0               
+      1    182    9.32e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 1D2.0               
+      3    182    6.59e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 1D2.0               
+      2    182    5.12e+13                  1s2.2p 2P0.5 - 1s.2s.2p2 1D2.0               
+      1    183    2.60e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 3P1.0               
+      3    183    6.39e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 3P1.0               
+      2    183    2.15e+13                  1s2.2p 2P0.5 - 1s.2s.2p2 3P1.0               
+      1    184    3.06e+11                  1s2.2s 2S0.5 - 1s.2p3 5S2.0                  
+      3    184    1.30e+12                  1s2.2p 2P1.5 - 1s.2p3 5S2.0                  
+      2    184    5.25e+12                  1s2.2p 2P0.5 - 1s.2p3 5S2.0                  
+      1    185    4.12e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 3P2.0               
+      3    185    1.54e+14                  1s2.2p 2P1.5 - 1s.2s.2p2 3P2.0               
+      2    185    3.66e+11                  1s2.2p 2P0.5 - 1s.2s.2p2 3P2.0               
+      1    186    3.63e+12                  1s2.2s 2S0.5 - 1s.2s.2p2 1P1.0               
+      3    186    5.47e+13                  1s2.2p 2P1.5 - 1s.2s.2p2 1P1.0               
+      2    186    9.78e+12                  1s2.2p 2P0.5 - 1s.2s.2p2 1P1.0               
+      1    187    5.24e+13                  1s2.2s 2S0.5 - 1s.2s.2p2 1S0.0               
+      3    187    1.23e+14                  1s2.2p 2P1.5 - 1s.2s.2p2 1S0.0               
+      2    187    7.72e+12                  1s2.2p 2P0.5 - 1s.2s.2p2 1S0.0               
+      1    188    3.74e+11                  1s2.2s 2S0.5 - 1s.2p3 3D1.0                  
+      3    188    4.10e+13                  1s2.2p 2P1.5 - 1s.2p3 3D1.0                  
+      2    188    1.40e+14                  1s2.2p 2P0.5 - 1s.2p3 3D1.0                  
+      1    189    4.45e+11                  1s2.2s 2S0.5 - 1s.2p3 3D2.0                  
+      3    189    7.16e+13                  1s2.2p 2P1.5 - 1s.2p3 3D2.0                  
+      2    189    1.24e+14                  1s2.2p 2P0.5 - 1s.2p3 3D2.0                  
+      3    190    1.64e+14                  1s2.2p 2P1.5 - 1s.2p3 3D3.0                  
+      2    190    4.67e+13                  1s2.2p 2P0.5 - 1s.2p3 3D3.0                  
+      1    191    1.55e+11                  1s2.2s 2S0.5 - 1s.2p3 3S1.0                  
+      3    191    3.54e+13                  1s2.2p 2P1.5 - 1s.2p3 3S1.0                  
+      2    191    5.55e+12                  1s2.2p 2P0.5 - 1s.2p3 3S1.0                  
+      1    192    6.82e+11                  1s2.2s 2S0.5 - 1s.2p3 1D2.0                  
+      3    192    1.14e+14                  1s2.2p 2P1.5 - 1s.2p3 1D2.0                  
+      2    192    7.30e+13                  1s2.2p 2P0.5 - 1s.2p3 1D2.0                  
+      1    193    2.08e+12                  1s2.2s 2S0.5 - 1s.2p3 3P0.0                  
+      3    193    1.13e+14                  1s2.2p 2P1.5 - 1s.2p3 3P0.0                  
+      2    193    1.97e+13                  1s2.2p 2P0.5 - 1s.2p3 3P0.0                  
+      1    194    1.71e+12                  1s2.2s 2S0.5 - 1s.2p3 3P1.0                  
+      3    194    1.08e+14                  1s2.2p 2P1.5 - 1s.2p3 3P1.0                  
+      2    194    1.59e+13                  1s2.2p 2P0.5 - 1s.2p3 3P1.0                  
+      1    195    1.29e+12                  1s2.2s 2S0.5 - 1s.2p3 3P2.0                  
+      3    195    1.56e+14                  1s2.2p 2P1.5 - 1s.2p3 3P2.0                  
+      2    195    4.29e+12                  1s2.2p 2P0.5 - 1s.2p3 3P2.0                  
+      1    196    1.19e+11                  1s2.2s 2S0.5 - 1s.2p3 1P1.0                  
+      3    196    1.07e+14                  1s2.2p 2P1.5 - 1s.2p3 1P1.0                  
+      2    196    1.86e+13                  1s2.2p 2P0.5 - 1s.2p3 1P1.0    
+ -1
+%filename:  fe_23.auto
+
+Theoretical energy levels and autoionization rates:  Autostructure calculation
+
+A Breit-Pauli distorted wave implementation for AUTOSTRUCTURE
+Badnell, N.R., 2011, Computer Physics Communications, 182, 1528
+ADSref:  http://adsabs.harvard.edu/abs/2011CoPhC.182.1528B
+
+Autostructure calculation optimized with 'SHFTIC' file using energy corrections from the following sources:
+
+Observed energy levels:  Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2012). NIST Atomic Spectra Database (ver. 5.0), [Online]. Available: http://physics.nist.gov/asd [2012, September 14]. National Institute of Standards and Technology, Gaithersburg, MD.
+
+theoretical energy levels used to correct autostructure levels
+ Yerokhin, V. A.; Surzhykov, A.; Fritzsche, S.
+ Relativistic configuration-interaction calculation of K-alpha transition energies in berylliumlike iron
+ Physical Review A, Volume 90, Issue 2, id.022509
+ DOI:  10.1103/PhysRevA.90.022509
+ adsRef:  http://adsabs.harvard.edu/abs/2014PhRvA..90b2509Y
+
+%observed energy levels 168 ( 53215318.) and 173 (53464915.) from 
+Rudolph, J. K.; Bernitt, S.; Epp, S. W.; Steinbrugge, R.; Beilmann, C.; Brown, G. V.; Eberle, S.; Graf, A.; Harman, Z.; Hell, N.; Leutenegger, M.; Mueller, A.; Schlage, K.; Wille, H.-C.; Yavas, H.; Ullrich, J.; Crespo Lopez-Urrutia, J. R.
+X-Ray Resonant Photoexcitation: Linewidths and Energies of K-alpha Transitions in Highly Charged Fe Ions
+Physical Review Letters, vol. 111, Issue 10, id. 103002
+DOI:  10.1103/PhysRevLett.111.103002
+adsRef:  http://adsabs.harvard.edu/abs/2013PhRvL.111j3002R
+
+produced as a part of the  'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2017 December 24
+
+%comment: Fixed text problem in comments. No change to data.  Peter Young, 25-Jul-2019

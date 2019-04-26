@@ -1,0 +1,13 @@
+    1
+   26    9   9.034e+00   1.128e+02   6.624e+02   1.143e+03   3.926e+03   1.300e+04   4.684e+04   2.670e+05   7.358e+05
+   26    9   4.777e-07   1.231e-06   5.055e-05   3.413e-04   1.625e-03   3.873e-03   6.438e-03   6.970e-02   2.925e-01
+%file:  fe_9.drparams
+ Schmidt, E. W.; Schippers, S.; Bernhardt, D.; Müller, A.; Hoffmann, J.;
+  Lestinsky, M.; Orlov, D. A.; Wolf, A.; Lukic, D. V.; Savin, D. W.; Badnell, N. R.
+ Electron-ion recombination for Fe VIII forming Fe VII and Fe IX forming Fe VIII: measurements and theory
+ adsRef: http://adsabs.harvard.edu/abs/2008A%26A...492..265S
+ 2008A&A...492..265S
+
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+  K. Dere (GMU) - 2017 November 19
+ -1

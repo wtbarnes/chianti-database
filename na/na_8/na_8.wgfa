@@ -1,0 +1,27 @@
+    1    3        789.783      9.689e-06      3.452e+04   2s2 1S0 - 2s.2p 3P1
+    1    4        779.916      0.000e+00      8.661e-02   2s2 1S0 - 2s.2p 3P2
+    3    4       62421.97      0.000e+00      5.989e-02   2s.2p 3P1 - 2s.2p 3P2
+    1    5        411.166      3.609e-01      4.744e+09   2s2 1S0 - 2s.2p 1P1
+    3    6        497.872      1.391e-01      3.741e+09   2s.2p 3P1 - 2p2 3P0
+    5    6       1186.789      1.312e-05      6.210e+04   2s.2p 1P1 - 2p2 3P0
+    2    7        494.010      1.406e-01      1.280e+09   2s.2p 3P0 - 2p2 3P1
+    3    7        495.813      1.049e-01      9.483e+08   2s.2p 3P1 - 2p2 3P1
+    4    7        499.783      1.729e-01      1.538e+09   2s.2p 3P2 - 2p2 3P1
+    5    7       1175.157      2.838e-06      4.568e+03   2s.2p 1P1 - 2p2 3P1
+    3    8        492.330      1.767e-01      9.718e+08   2s.2p 3P1 - 2p2 3P2
+    4    8        496.243      5.235e-01      2.834e+09   2s.2p 3P2 - 2p2 3P2
+    5    8       1155.775      1.599e-04      1.596e+05   2s.2p 1P1 - 2p2 3P2
+    3    9        426.394      1.982e-05      1.454e+05   2s.2p 3P1 - 2p2 1D2
+    4    9        429.326      6.140e-04      4.441e+06   2s.2p 3P2 - 2p2 1D2
+    5    9        847.953      3.970e-01      7.361e+08   2s.2p 1P1 - 2p2 1D2
+    5   10        492.781      2.757e-01      7.568e+09   2s.2p 1P1 - 2p2 1S0
+ -1
+%filename: na_8.wgfa
+%experimental energy levels: Edlen, B., Phys. Scripta, 1983, 28, 51
+%Allowed transitions oscillator strengths: Zhang, Sampson, ADNDT, 1992, 52, 143
+%forbidden A values 1-4,3-4: Muhlethaler, Nussbaumer, 1976, A&A, 48, 109
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   Enrico Landi 1997
+%File processed with wgfa_tidy by pryoung on  6-Mar-2019
+ -1

@@ -1,0 +1,22 @@
+      1     2s2.2p2                           3  P    0.0          0.000          0.000
+      2     2s2.2p2                           3  P    1.0       9859.000       9917.000
+      3     2s2.2p2                           3  P    2.0      21850.000      21876.000
+      4     2s2.2p2                           1  D    2.0      85026.000      87191.000
+      5     2s2.2p2                           1  S    0.0     162158.000     157478.000
+      6     2s.2p3                            5  S    2.0     227473.000     215606.000
+      7     2s.2p3                            3  D    1.0     423218.000     424275.000
+      8     2s.2p3                            3  D    2.0     422673.000     423941.000
+      9     2s.2p3                            3  D    3.0     423947.000     426145.000
+     10     2s.2p3                            3  P    0.0     495414.000     495062.000
+     11     2s.2p3                            3  P    1.0     495759.000     495835.000
+     12     2s.2p3                            3  P    2.0     496983.000     497288.000
+     13     2s.2p3                            1  D    2.0     625762.000     639696.000
+     14     2s.2p3                            3  S    1.0     628579.000     640411.000
+     15     2s.2p3                            1  P    1.0     698600.000     710559.000
+ -1
+%filename: ar_13.elvlc
+%energy levels: Edlen, B., 1985, Physica Scripta, 31, 345
+% theoretical energy levels: Dere K.P, Mason H.E., Widing K.G., Bhatia A.K., ApJSS, 1979, 40, 341
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E.Landi 2000
