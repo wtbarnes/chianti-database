@@ -1,0 +1,20 @@
+    1    2       59819.35      0.000e+00      1.035e-01   3s2.3p4 3P2 - 3s2.3p4 3P1
+    1    3      43081.165      0.000e+00      1.124e-05   3s2.3p4 3P2 - 3s2.3p4 3P0
+    2    3      153964.59      0.000e+00      1.527e-02   3s2.3p4 3P1 - 3s2.3p4 3P0
+    1    4       6103.516      0.000e+00      8.394e-01   3s2.3p4 3P2 - 3s2.3p4 1D2
+    2    4       6797.034      0.000e+00      2.032e-01   3s2.3p4 3P1 - 3s2.3p4 1D2
+    3    4       7110.959      0.000e+00      4.210e-05   3s2.3p4 3P0 - 3s2.3p4 1D2
+    1    5       2594.283      0.000e+00      6.789e-02   3s2.3p4 3P2 - 3s2.3p4 1S0
+    2    5       2711.894      0.000e+00      1.018e+01   3s2.3p4 3P1 - 3s2.3p4 1S0
+    4    5       4512.167      0.000e+00      3.181e+00   3s2.3p4 1D2 - 3s2.3p4 1S0
+ -1
+%filename: k_4.wgfa
+% Aji : Biemont and Hansen 1989 Physica Scripta 34 116-130
+% Levels NIST ASD v5.3 2015.  Vac Wavelenghths derived from elvlc levels
+% RSS 2015
+
+kpd removed since avalue was zero
+    3    5       2760.520      0.000e+00      0.000e+00           3s2.3p4 3P0 -            3s2.3p4 1S0
+
+%File processed with wgfa_tidy by pryoung on  6-Mar-2019
+ -1

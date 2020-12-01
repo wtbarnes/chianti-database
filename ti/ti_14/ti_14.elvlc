@@ -1,0 +1,11 @@
+      1     2s2.2p5                           2  P    1.5          0.000          0.000
+      2     2s2.2p5                           2  P    0.5      47219.000      46927.000
+      3     2s.2p6                            2  S    0.5     819772.000     836480.000
+ -1
+%filename: ti_14.elvlc
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy levels: Bhatia, A.K., Feldman, U., Doschek, G.A., 1980, J.Appl.Phys., 51, 1464
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997

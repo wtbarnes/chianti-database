@@ -1,0 +1,28 @@
+      1     1s2.2s                            2  S    0.5          0.000          0.000
+      2     1s2.2p                            2  P    0.5     323549.000     323486.935
+      3     1s2.2p                            2  P    1.5     385695.000     385630.076
+      4     1s2.3s                            2  S    0.5    6466000.000    6469146.109
+      5     1s2.3p                            2  P    0.5    6556000.000    6558933.176
+      6     1s2.3p                            2  P    1.5    6574000.000    6578060.389
+      7     1s2.3d                            2  D    1.5    6610000.000    6612891.012
+      8     1s2.3d                            2  D    2.5    6616000.000    6618707.089
+      9     1s2.4s                            2  S    0.5         -1.000    8691677.796
+     10     1s2.4p                            2  P    0.5    8732000.000    8728670.243
+     11     1s2.4p                            2  P    1.5    8732000.000    8736724.962
+     12     1s2.4d                            2  D    1.5    8747000.000    8751352.945
+     13     1s2.4d                            2  D    2.5    8748000.000    8753811.061
+     14     1s2.4f                            2  F    2.5    8753000.000    8755281.541
+     15     1s2.4f                            2  F    3.5    8753000.000    8756499.625
+     16     1s2.5s                            2  S    0.5         -1.000    9710742.352
+     17     1s2.5p                            2  P    0.5    9730000.000    9729463.537
+     18     1s2.5p                            2  P    1.5    9730000.000    9733578.686
+     19     1s2.5d                            2  D    1.5    9740000.000    9741040.823
+     20     1s2.5d                            2  D    2.5    9740000.000    9742302.802
+ -1
+%filename: ti_20.elvlc
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+  NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy levels: Zhang, Sampson, Fontes, ADNDT, 1990, 44, 31.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997

@@ -1,0 +1,38 @@
+      1     2p6                               1  S    0.0          0.000          0.000
+      2     2p5.3s                            3  P    2.0    5848620.000    5855680.500
+      3     2p5.3s                            1  P    1.0    5864000.000    5871661.500
+      4     2p5.3s                            3  P    0.0    5950710.000    5956518.000
+      5     2p5.3s                            3  P    1.0    5960270.000    5967008.000
+      6     2p5.3p                            3  S    1.0    6092810.000    6099089.000
+      7     2p5.3p                            3  D    2.0    6121010.000    6128677.500
+      8     2p5.3p                            3  D    3.0    6134030.000    6141047.500
+      9     2p5.3p                            1  P    1.0    6143140.000    6150493.500
+     10     2p5.3p                            3  P    2.0    6157770.000    6164853.500
+     11     2p5.3p                            3  P    0.0    6201860.000    6211008.000
+     12     2p5.3p                            3  D    1.0    6218510.000    6225625.000
+     13     2p5.3p                            3  P    1.0    6244720.000    6250816.500
+     14     2p5.3p                            1  D    2.0    6247750.000    6254324.500
+     15     2p5.3p                            1  S    0.0    6352630.000    6382883.000
+     16     1s.2s2.2p6.3s                     3  S    1.0   57735005.000   57735005.000
+     17     1s.2s2.2p6.3s                     1  S    0.0   57775332.000   57775332.000
+     18     1s.2s2.2p6.3p                     3  P    0.0   57995519.000   57995519.000
+     19     1s.2s2.2p6.3p                     3  P    1.0   58000359.000   58000359.000
+     20     1s.2s2.2p6.3p                     3  P    2.0   58019716.000   58019716.000
+     21     1s.2s2.2p6.3p                     1  P    1.0   58043106.000   58043106.000
+ -1
+%filename: fe_17d.elvlc
+%Energy levels (below ionization): Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%Energy levels (above ionization): Mendoza, C., Kallman, T.R., Bautista, M.A., Palmeri, P., 2004, A&A, 414, 377
+%Comment: some energy levels from the NIST database, version 2.0, have been renumbered
+        in order to match the identification given by Bhatia and Doschek
+        and their theoretical energy levels. In particular, the following changes
+        have been made:
+                        NIST  -->  CHIANTI
+                         12   -->     9
+                         13   -->    12
+                          9   -->    13
+%Comment: the theoretical energies from Mendoza et al have been used as experimental ones.
+%Comment: the LS notation for energy levels has been taken from Mendoza et al.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi - Jan 2005

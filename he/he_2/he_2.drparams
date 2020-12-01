@@ -1,0 +1,22 @@
+    1
+    2    2   4.633E+05   5.532E+05   8.887E+05  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+    2    2   1.417E-03   2.235E-04  -2.185E-05  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  he_2.drparams
+
+parameters for the dielectronic recombination rate coefficients.
+Revised values (factor of two higher) as described in
+
+Del Zanna G., Storey, P.J., Badnell, N.R., Andretta V., 2020, ApJ, 898, 1,72
+DOI: 10.3847/1538-4357/ab9d84
+
+Note: the original description of the method is in
+
+Badnell, N. R., 2006, A&A, 447, 389
+Dielectronic recombination data for dynamic finite-density plasmas. X. The hydrogen isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447..389B
+
+produced for the CHIANTI atomic database by
+G. Del Zanna, Sept 2020
+
+-1

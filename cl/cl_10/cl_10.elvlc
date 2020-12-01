@@ -1,0 +1,17 @@
+      1     2s2.2p4                           3  P    2.0          0.000          0.000
+      2     2s2.2p4                           3  P    1.0      10847.000      11200.380
+      3     2s2.2p4                           3  P    0.0      14127.000      14562.896
+      4     2s2.2p4                           1  D    2.0      64872.000      68281.366
+      5     2s2.2p4                           1  S    0.0     135206.000     136879.969
+      6     2s.2p5                            3  P    2.0     486894.000     497350.134
+      7     2s.2p5                            3  P    1.0     496276.000     507005.009
+      8     2s.2p5                            3  P    0.0     501554.000     512425.760
+      9     2s.2p5                            1  P    1.0     672630.000     692684.193
+     10     2p6                               1  S    0.0    1136464.000    1172051.916
+ -1
+%filename: cl_10.elvlc
+%observed energy levels: Edlen, B., 1983, Phys. Scr., 28, 51
+%Theoretical energy levels: Landi, E. 2005, A&A, 434, 365
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+% 
+% Enrico Landi - May 2004
