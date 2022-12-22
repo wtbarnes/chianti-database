@@ -27,7 +27,7 @@
       6.70   10.2705
       6.75    9.2950
       6.80    8.3887
--1
+ -1
 %file    : quiet_sun_eis.dem
 %reference :  Brooks, D. H., Warren, H. P., Williams, D.R., Watanabe, T., 2009, Apj, 705, 1522
 %ADS:  http://adsabs.harvard.edu/abs/2009arXiv0905.3603B
@@ -72,4 +72,4 @@
 %ABUND-FE:       0.68
 %ABUND-S :       1.00
 %ABUND-Si:       1.00
--1
+ -1
