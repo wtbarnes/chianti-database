@@ -1,11 +1,17 @@
     1
-   16    2  1.7349e+05  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
-   16    2  1.7126e-03  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
--1
-%file:  s_2.rrparams
-%parameters for dielectronic recombination rate coefficients
-%reference:  Mazzotta, P., Mazzitelli, G., Colafrancesco, S.,
-    Vittorio, N., 1998, A\&ASS, 133, 403
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Thu Feb  8 15:10:19 2007
--1
+   16    2   5.077e+02   6.007e+02   2.342e+03   7.269e+03   2.190e+04   1.483e+05   1.906e+05   0.000e+00   0.000e+00
+   16    2   7.300e-08   2.577e-07   4.961e-08   9.520e-07   9.586e-07   6.849e-04   6.539e-04   0.000e+00   0.000e+00
+ -1
+ filename: s_2.drparams 
+ total dielectronic recombination parameters 
+ recombination of S II to form S I 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R. 
+ 2022 A&S, 668, a72 
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence 
+ doi: 10.1051/0004-6361/202244043 
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B 
+  
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1

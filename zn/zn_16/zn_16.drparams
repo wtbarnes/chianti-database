@@ -1,10 +1,17 @@
     1
-   30   16  4.6505e+05  8.0124e+05  2.5675e+06  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
-   30   16  3.2752e-02  6.1129e-01  3.4627e-01  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
--1
-%file:  zn_16.drparams
-%parameters for dielectronic recombination rate coefficients
-%reference:  Mazzitelli, G., Mattioli, M., 2002, ADNDT, 82, 313
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Fri Feb  9 08:36:17 2007
--1
+   30   16   2.975e+03   2.705e+04   1.301e+05   7.205e+05   2.173e+06   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+   30   16   5.765e-03   3.060e-02   7.948e-02   4.770e-01   1.908e-01   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+ -1
+ filename: zn_16.drparams 
+ total dielectronic recombination parameters 
+ recombination of Zn XVI to form Zn XV 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R. 
+ 2022 A&S, 668, a72 
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence 
+ doi: 10.1051/0004-6361/202244043 
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B 
+  
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1

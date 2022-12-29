@@ -1,9 +1,17 @@
-    2
-   24   10  1.5700e-01  1.6510e+00  2.4370e+05  1.3030e+06
--1
-%file:  cr_10.drparams
-%parameters for dielectronic recombination rate coefficients
-%reference:  Landini, M., Monsignori Fossi, B. C., 1991, A&ASS, 91, 183
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Wed Sep 24 11:16:35 2008
--1
+    1
+   24   10   1.568e+03   1.232e+04   4.546e+04   3.202e+05   7.469e+05   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+   24   10   1.836e-04   2.525e-03   1.026e-02   9.320e-02   1.963e-01   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+ -1
+ filename: cr_10.drparams 
+ total dielectronic recombination parameters 
+ recombination of Cr X to form Cr IX 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R. 
+ 2022 A&S, 668, a72 
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence 
+ doi: 10.1051/0004-6361/202244043 
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B 
+  
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1

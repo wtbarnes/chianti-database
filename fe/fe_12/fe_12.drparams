@@ -1,13 +1,17 @@
     1
-   26   12  1.3870e+03  1.0480e+04  3.9550e+04  1.4610e+05  4.0100e+05  7.2080e+05  0.0000e+00  0.0000e+00  0.0000e+00
-   26   12  1.0740e-03  6.0800e-03  1.8870e-02  2.5400e-02  7.5800e-02  2.7730e-01  0.0000e+00  0.0000e+00  0.0000e+00
--1
-%file:  fe_12.drparams
-%parameters for dielectronic recombination rate coefficients
-Determined from the coefficients listed at:
-   http://amdpp.phys.strath.ac.uk/tamoc/DATA/RR/
-These calculations have been performed by a collaboration of researchers at:
-    Auburn University, Rollins College, and the University of Strathclyde.
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Wed Feb 15 11:13:10 2012
--1
+   26   12   1.463e+03   1.289e+04   7.234e+04   4.470e+05   1.042e+06   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+   26   12   1.791e-03   5.627e-03   2.131e-02   2.097e-01   1.936e-01   0.000e+00   0.000e+00   0.000e+00   0.000e+00
+ -1
+ filename: fe_12.drparams 
+ total dielectronic recombination parameters 
+ recombination of Fe XII to form Fe XI 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R. 
+ 2022 A&S, 668, a72 
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence 
+ doi: 10.1051/0004-6361/202244043 
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B 
+  
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1

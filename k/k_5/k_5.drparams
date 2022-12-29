@@ -1,9 +1,17 @@
-    2
-   19    5  8.2540e-02  7.5260e-02  3.0710e+05  7.3420e+05
--1
-%file:  k_5.drparams
-%parameters for dielectronic recombination rate coefficients
-%reference:  Landini, M., Monsignori Fossi, B. C., 1991, A&ASS, 91, 183
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Wed Sep 24 11:13:33 2008
--1
+    1
+   19    5   1.967e+02   2.907e+03   9.067e+03   4.852e+04   2.033e+05   3.790e+05   0.000e+00   0.000e+00   0.000e+00
+   19    5   8.509e-07   4.814e-05   1.335e-04   4.253e-04   4.086e-03   6.825e-02   0.000e+00   0.000e+00   0.000e+00
+ -1
+ filename: k_5.drparams 
+ total dielectronic recombination parameters 
+ recombination of K V to form K IV 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R. 
+ 2022 A&S, 668, a72 
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence 
+ doi: 10.1051/0004-6361/202244043 
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B 
+  
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1
