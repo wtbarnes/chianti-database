@@ -1,12 +1,17 @@
-    3
-   29   15  2.8100e-10  8.2600e-01
--1
+    2
+   29   15    1  2.8760e-10   0.51270 6.2840e+03 5.4430e+07   0.07520  9.2420e+04
+ -1 
 %file:  cu_15.rrparams
-% radiative recombination parameters, interpolated from:
-  Shull, J. M., Van Steenberg, M., 1982, ApJSS, 48, 95
-  Landini, M., Monsignori Fossi, B. C., 1990, A\&ASS, 82, 229
-  Landini, M., Monsignori Fossi, B. C., 1991, A\&ASS, 91, 183
-  Mazzitelli, G., Mattioli, M., 2002, ADNDT, 82, 313
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Ken Dere (GMU):  Thu Feb  8 12:16:39 2007
--1
+ 
+ radiative recombination parameters 
+ recombination of Cu XV to form Cu XIV 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R.
+ 2022 A&S, 668, a72
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence
+ doi: 10.1051/0004-6361/202244043
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B
+
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1

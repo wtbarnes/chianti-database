@@ -1,9 +1,17 @@
-    1
-   17    3    1  1.7910e-10   0.71230  9.3450e+00  2.3630e+06
--1
+    2
+   17    3    1  7.8030e-11   0.62730 4.2650e+01 2.4690e+07   0.16040  4.2170e+05
+ -1 
 %file:  cl_3.rrparams
-%radiative recombination parameters
-Aldrovandi & Pequignot, 1974, Revista Brasileira de Fisica, 4, 491
- produced for the CHIANTI atomic database for astrophysical spectroscopy
- created by Peter Young (RAL) and Ken Dere (GMU):  Tue Feb  5 12:32:04 2008
--1
+ 
+ radiative recombination parameters 
+ recombination of Cl III to form Cl II 
+ 
+ Bleda, E.~A. and Altun, Z. and Badnell, N.~R.
+ 2022 A&S, 668, a72
+ Dielectronic recombination data for dynamic finite-density plasmas. XVI. The phosphorus isoelectronic sequence
+ doi: 10.1051/0004-6361/202244043
+ adsRef: https://ui.adsabs.harvard.edu/abs/2022A&A...668A..72B
+
+ produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+  K. Dere (GMU) - 2022 December 29 
+ -1
