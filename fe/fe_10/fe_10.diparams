@@ -1,17 +1,16 @@
-   26   10    9    3    1
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  262.1030    0.0000    3.2391    5.9270    8.7322   11.6916   14.2100   15.2622   13.5646    7.8283
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  300.1500    0.0000    1.1923    2.0948    2.9762    3.8803    4.6309    4.8950    4.2463    2.2565
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  959.0000    0.0000    0.4571    0.8863    1.3747    1.9080    2.3875    2.6160    2.3557    1.3685
-    1.0000
--1
-%file:  fe_10.diparams
-%direct ionization parameter file
- derived from fits to experimental and theoretical data
-Dere, K. P., 2007, A&A, 466, 771
-ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
- created for CHIANTI database for astrophysical spectroscopy
-  created by Ken Dere  (GMU)  Fri Jan 26 12:40:32 2007
--1
+   26   10   11    1    2
+   2.20000   0.00000   0.03000   0.06200   0.12500   0.25000   0.37500   0.50000   0.62500   0.75000   0.87500   1.00000
+ 262.10257   0.00000   2.07775   3.74066   6.41178  10.20230  13.17319  16.08627  18.94891  21.01410  20.78040  15.99400
+   1.800e+00   2.400e+00   
+ -1
+filename: fe_10.diparams
+direct ionization parameters
+
+derived from a fit to the measurements of:
+Hahn, M.; Becker, A.; Grieser, M.; Krantz, C.; Lestinsky, M.; Muller, A.; Novotny, O.; Repnow, R.; Schippers, S.; Spruck, K.; Wolf, A.; Savin, D. W.
+Storage Ring Cross-section Measurements for Electron Impact Single and Double Ionization of Fe9 + and Single Ionization of Fe10 +
+2011ApJ...729...76H
+
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2022 January 14
+  -1

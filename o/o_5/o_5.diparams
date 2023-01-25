@@ -1,15 +1,13 @@
-    8    5    9    2    1
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  113.8990    0.0000    1.1654    2.2745    3.3324    4.2898    4.9845    5.1764    4.5964    2.9844
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  663.6390    0.0000    1.1038    2.3216    3.6904    5.1119    6.3185    6.9626    6.7032    5.1952
-    1.0000
--1
-%file:  o_5.diparams
-%direct ionization parameter file
- derived from fits to experimental and theoretical data
-Dere, K. P., 2007, A&A, 466, 771
-ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
- created for CHIANTI database for astrophysical spectroscopy
-  created by Ken Dere  (GMU)  Fri Jan 26 12:40:27 2007
--1
+    8    5   11    1    2
+   2.60000   0.00000   0.03000   0.06200   0.12500   0.25000   0.37500   0.50000   0.62500   0.75000   0.87500   1.00000
+ 113.89894   0.00000   0.55945   0.97530   1.69056   2.79509   3.62103   4.28495   4.84521   5.30203   5.59748   5.61600
+   2.500e+00   2.500e+00
+ -1
+filename:  o_5.diparams
+direct ionization parameter file
+based on fits to:
+Fogle, M.; Bahati, E. M.; Bannister, M. E.; Vane, C. R.; Loch, S. D.; Pindzola, M. S.; Ballance, C. P.; Thomas, R. D.; Zhaunerchyk, V.; Bryans, P.; Mitthumsiri, W.; Savin, D. W.
+Electron-Impact Ionization of Be-like C III, N IV, and O V
+http://adsabs.harvard.edu/abs/2008ApJS..175..543F
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2022 May 04

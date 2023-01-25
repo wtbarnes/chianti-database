@@ -1,17 +1,15 @@
-   26   12    9    3    1
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  330.7900    0.0000    2.0274    3.6527    5.2665    6.9069    8.2580    8.7638    7.7219    4.4268
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  370.3000    0.0000    1.1496    2.0000    2.8154    3.6455    4.3364    4.5769    3.9676    2.1078
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
- 1039.0000    0.0000    0.7357    1.4024    2.1568    2.9853    3.7302    4.0759    3.6386    2.0344
-    1.0000
--1
-%file:  fe_12.diparams
-%direct ionization parameter file
- derived from fits to experimental and theoretical data
-Dere, K. P., 2007, A&A, 466, 771
-ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
- created for CHIANTI database for astrophysical spectroscopy
-  created by Ken Dere  (GMU)  Fri Jan 26 12:40:31 2007
--1
+   26   12   11    1    1
+   1.80000   0.00000   0.03000   0.06200   0.12500   0.25000   0.37500   0.50000   0.62500   0.75000   0.87500   1.00000
+ 330.78981   0.00000   0.96398   1.72109   3.00671   5.06262   6.86718   8.63492  10.26897  11.36100  11.19125   8.73000
+   1.000e+00
+ -1
+filename:  fe_12.diparams
+
+direct ionization parameters
+
+derived by fits to:
+
+Hahn, M.; Bernhardt, D.; Grieser, M.; Krantz, C.; Lestinsky, M.; Muller, A.; Novotny, O.; Repnow, R.; Schippers, S.; Wolf, A.; Savin, D. W.
+2011ApJ...729...76H
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2022 May 14

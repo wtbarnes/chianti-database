@@ -1,14 +1,12 @@
-   26   18    9    2    0
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
- 1361.9660    0.0000    4.0190    7.9694   11.5682   14.8205   17.0473   17.4534   15.4539   10.7537
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
- 7953.8760    0.0000    1.1342    2.3362    3.7401    5.2867    6.4682    6.9231    6.6591    5.6586
--1
-%file:  fe_18.diparams
-%direct ionization parameter file
- derived from fits to experimental and theoretical data
-Dere, K. P., 2007, A&A, 466, 771
-ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
- created for CHIANTI database for astrophysical spectroscopy
-  created by Ken Dere  (GMU)  Fri Jan 26 12:40:28 2007
--1
+   26   18   11    1    0
+   2.20000   0.00000   0.03000   0.06200   0.12500   0.25000   0.37500   0.50000   0.62500   0.75000   0.87500   1.00000
+1361.96630   0.00000   1.63471   3.20971   5.92902  10.07506  12.94799  14.88883  16.09672  16.62899  16.40110  15.18800
+ -1
+filename:  fe_18.diparams
+direct ionization parameter file
+based on fits to:
+Hahn, M.; Becker, A.; Bernhardt, D.; Grieser, M.; Krantz, C.; Lestinsky, M.; Muller, A.; Novotny, O.; Repnow, R.; Schippers, S.; Spruck, K.; Wolf, A.; Savin, D. W.
+Storage Ring Cross Section Measurements for Electron Impact Single and Double Ionization of Fe13 + and Single Ionization of Fe16 + and Fe17 +
+Code:	2013ApJ...767...47H
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2022 May 18

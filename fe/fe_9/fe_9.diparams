@@ -1,13 +1,11 @@
-   26    9    9    1    1
-    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
-  233.5860    0.0000    4.9710    9.1630   13.7200   18.6800   22.9900   24.7600   21.6900   11.4700
-    1.0000
--1
-%file:  fe_9.diparams
-%direct ionization parameter file
- derived from fits to experimental and theoretical data
-Dere, K. P., 2007, A&A, 466, 771
-ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
- created for CHIANTI database for astrophysical spectroscopy
-  created by Ken Dere  (GMU)  Fri Jan 26 12:40:32 2007
--1
+   26    9   11    1    1
+   1.70000   0.00000   0.03000   0.06200   0.12500   0.25000   0.37500   0.50000   0.62500   0.75000   0.87500   1.00000
+ 233.58621   0.00000   1.54230   2.68044   4.46058   6.87823   8.82614  11.05901  13.80884  16.78487  19.17366  19.62800
+   0.660e+00
+ -1
+ionxdatName:  fe_9_hahn_2016.ionxdat
+Hahn, M.; Becker, A.; Bernhardt, D.; Grieser, M.; Krantz, C.; Lestinsky, M.; Muller, A.; Novotny, O.; Pindzola, M. S.; Repnow, R.; Schippers, S.; Spruck, K.; Wolf, A.; Savin, D. W.
+Storage ring cross section measurements for electron impact ionization of Fe8+
+2016JPhB...49h4006H
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+ K. Dere (GMU) - 2022 May 09
