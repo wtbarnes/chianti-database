@@ -34,17 +34,6 @@ Observed energy levels:  Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD T
 NIST Atomic Spectra Database (ver. 5.0), [Online]. Available: http://physics.nist.gov/asd [Tue Feb 20 2018].
 National Institute of Standards and Technology, Gaithersburg, MD
 
-Theoretical energies for n=2, 3 above IP
-Goryaev, F. F.; Vainshtein, L. A.; Urnov, A. M.
-Atomic data for doubly-excited states 2lnl‧ of He-like ions and 1s2lnl‧ of Li-like ions with Z = 6-36 and n = 2 , 3
-2017, ADNDT, 113, 117-257
-adsRef:  http://adsabs.harvard.edu/abs/2017ADNDT.113..117G
-DOI:  10.1016/j.adt.2016.04.002
-
-Theoretical energy levels (n=4,5 above IP):
-calculations of U. Safronova reported in Kato et al., 1997, ADNDT, 67, 225.
-ADS http://adsabs.harvard.edu/abs/1997ADNDT..67..225K
-updated by U. Safronova, 2001, private communication
 
 theoretical energy levels adjusted by SHFTIC file derived from
 Artemyev, Goryaev (n=2, 3 above IP) and Safronova (n= 4,5,6 above IP energies

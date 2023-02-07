@@ -922,7 +922,7 @@
     922 1s.2p(1P).8f                   99     2    D  1.5         -1.000   13696006.341 ,     -1.00000000 ,    124.80718812
     923 1s.2p(1P).8f                   99     2    D  2.5         -1.000   13696025.852 ,     -1.00000000 ,    124.80736592
  -1
-%filename:  mg_10.elvlc.olg.nist
+%filename:  mg_10.elvlc
 
 Theoretical energy levels:  
 Autostructure calculation with energy levels optimized to match to the observed energies
@@ -940,7 +940,7 @@ National Institute of Standards and Technology, Gaithersburg, MD.
 
 Theoretical energies for n=2, 3 above IP
 Goryaev, F. F.; Vainshtein, L. A.; Urnov, A. M.
-Atomic data for doubly-excited states 2lnl‧ of He-like ions and 1s2lnl‧ of Li-like ions with Z = 6-36 and n = 2 , 3
+Atomic data for doubly-excited states 2lnl of He-like ions and 1s2lnl of Li-like ions with Z = 6-36 and n = 2 , 3
 2017, ADNDT, 113, 117-257
 adsRef:  http://adsabs.harvard.edu/abs/2017ADNDT.113..117G
 DOI:  10.1016/j.adt.2016.04.002
