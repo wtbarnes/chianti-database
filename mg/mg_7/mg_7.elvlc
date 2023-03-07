@@ -1,18 +1,18 @@
       1     2s2 2p2                           3  P    0.0            0.0            0.0
-      2     2s2 2p2                           3  P    1.0         1107.0         1101.6
+      2     2s2 2p2                           3  P    1.0         1112.2         1101.6
       3     2s2 2p2                           3  P    2.0         2927.1         3061.3
       4     2s2 2p2                           1  D    2.0        40954.6        43890.8
-      5     2s2 2p2                           1  S    0.0        85152.0        85983.8
-      6     2s 2p3                            5  S    2.0       118115.0       110647.1
-      7     2s 2p3                            3  D    2.0       232957.0       235718.6
-      8     2s 2p3                            3  D    1.0       233024.0       235719.7
-      9     2s 2p3                            3  D    3.0       232853.0       235808.5
-     10     2s 2p3                            3  P    0.0       274947.0       278379.9
-     11     2s 2p3                            3  P    1.0       274897.0       278418.1
-     12     2s 2p3                            3  P    2.0       274904.0       278491.1
-     13     2s 2p3                            1  D    2.0       354401.0       366118.8
-     14     2s 2p3                            3  S    1.0       362117.0       372083.8
-     15     2s 2p3                            1  P    1.0       397153.0       409401.4
+      5     2s2 2p2                           1  S    0.0        85157.8        85983.8
+      6     2s 2p3                            5  S    2.0       118122.0       110647.1
+      7     2s 2p3                            3  D    2.0       232964.0       235718.6
+      8     2s 2p3                            3  D    1.0       233028.0       235719.7
+      9     2s 2p3                            3  D    3.0       232856.0       235808.5
+     10     2s 2p3                            3  P    0.0       274963.0       278379.9
+     11     2s 2p3                            3  P    1.0       274901.0       278418.1
+     12     2s 2p3                            3  P    2.0       274915.0       278491.1
+     13     2s 2p3                            1  D    2.0       354419.0       366118.8
+     14     2s 2p3                            3  S    1.0       362130.0       372083.8
+     15     2s 2p3                            1  P    1.0       397166.0       409401.4
      16     2p4                               3  P    2.0       542316.0       553112.7
      17     2p4                               3  P    1.0       544393.0       555097.9
      18     2p4                               3  P    0.0       545264.0       556000.4
@@ -460,20 +460,18 @@ Note: only  bound levels have been retained.
 
 Observed energies:
 
-level 3: Feuchtgruber, H., Lutz, D.A., Beintema, E.A. et al., 1997, ApJ, 487, 962
-level 4: Young, P.R., Dupree, A.K., Espey, B.R., & Kenyon, S.J., 2006, ApJ, 650, 1091
-Levels 5,6: Feldman, U. & Doschek, G.A., Atomic Data and Nuclear Data Tables 93 (2007) 779–806
+Levels 1-15: Young, P.R., 2023, ApJ, submitted
 
 Other levels:
 NIST Atomic Spectra Database, (ver. 5.7.1), [Online].
 https://physics.nist.gov/PhysRefData/ASD/levels_form.html
 
-Note: several NIST eneergies are not relative to the ground state
+Note: several NIST energies are not relative to the ground state
 or are uncertain. Only those of the lowest levels have been retained.
 
 
 Produced as part of the 'CHIANTI' atomic data base collaboration by
 Giulio Del Zanna, June 2020
 
- 
+Updated, 6-Mar-2023, Peter Young.
  -1
