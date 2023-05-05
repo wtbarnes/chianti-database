@@ -30,7 +30,7 @@
 30   5.06  Zn +0.5
  -1
  
-filename: sun_coronal_active_region_fipbias=3.2.abund
+filename: sun_coronal_2021_chianti.abund
 
 This is a general `coronal' set of abundances for active regions,
 where the abundances of the low-FIP elements
