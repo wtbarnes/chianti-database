@@ -1,5 +1,5 @@
     1    2        18.9723      0.000e+00      2.690e+03   1s 2S1/2 - 2s 2S1/2
-    1    2         0.0000      0.000e+00      2.153e+06   2s 2S1/2 [2-photon rate]
+    1    2         0.0000      0.000e+00      2.153e+06   2s 2S1/2 [autoionizing rate]
     3    2     1359804.19      6.268e-05      1.129e-01   2p 2P1/2 - 2s 2S1/2
     1    3        18.9725      2.767e-01      2.564e+12   1s 2S1/2 - 2p 2P1/2
     1    4        18.9671      5.531e-01      2.564e+12   1s 2S1/2 - 2p 2P3/2
@@ -165,4 +165,5 @@
 % edited wavelengths at line 224 to provide a space between the wavelength and the level2 numbers
 % K Dere 7 oct 2015
 %File processed with wgfa_tidy by pryoung on  6-Mar-2019
+%File processed with wgfa_tidy by pryoung on 31-May-2023
  -1
