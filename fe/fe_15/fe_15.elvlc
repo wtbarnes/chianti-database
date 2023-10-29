@@ -36,7 +36,7 @@
      36     3s 4s                             3  S    1.0      1763700.0      1761407.1
      37     3s 4s                             1  S    0.0      1787000.0      1785748.1
      38     3s 4p                             3  P    0.0           -1.0      1880398.1
-     39     3s 4p                             3  P    1.0           -1.0      1880925.6
+     39     3s 4p                             3  P    1.0      1883240.0      1880925.6
      40     3s 4p                             3  P    2.0           -1.0      1887468.0
      41     3s 4p                             1  P    1.0      1889970.0      1888045.5
      42     3s 4d                             3  D    1.0      2031310.0      2030669.9
@@ -47,8 +47,8 @@
      47     3p 4s                             3  P    1.0           -1.0      2056015.5
      48     3p 4s                             3  P    2.0           -1.0      2072096.2
      49     3p 4s                             1  P    1.0           -1.0      2086484.0
-     50     3s 4f                             3  F    2.0      2108550.0      2106879.0
-     51     3s 4f                             3  F    3.0      2108630.0      2107113.8
+     50     3s 4f                             3  F    2.0      2108520.0      2106879.0
+     51     3s 4f                             3  F    3.0      2108620.0      2107113.8
      52     3s 4f                             3  F    4.0      2108880.0      2107428.8
      53     3s 4f                             1  F    3.0      2123150.0      2123578.5
      54     3p 4p                             1  P    1.0           -1.0      2153901.2
@@ -79,7 +79,7 @@
      79     3p 4f                             3  F    2.0      2390100.0      2390047.8
      80     3p 4f                             3  F    3.0           -1.0      2399290.2
      81     3p 4f                             3  G    5.0      2402100.0      2401446.8
-     82     3p 4f                             3  F    4.0           -1.0      2402059.2
+     82     3p 4f                             3  F    4.0      2402100.0      2402059.2
      83     3p 4f                             3  D    3.0      2413000.0      2413768.8
      84     3p 4f                             3  D    2.0      2414300.0      2416799.2
      85     3p 4f                             3  D    1.0      2420100.0      2419889.5
@@ -90,7 +90,7 @@
      90     3d 4s                             3  D    3.0           -1.0      2464549.5
      91     3d 4s                             1  D    2.0           -1.0      2473296.0
      92     3s 5s                             3  S    1.0      2544800.0      2508058.2
-     93     3s 5s                             1  S    0.0           -1.0      2517261.0
+     93     3s 5s                             1  S    0.0      2519200.0      2517261.0
      94     3d 4p                             1  D    2.0           -1.0      2564017.8
      95     3s 5p                             3  P    1.0           -1.0      2564894.2
      96     3s 5p                             3  P    0.0           -1.0      2565001.8
@@ -300,4 +300,17 @@ Experimental energy levels (76-117): Ralchenko Y., Jou, F.C., Kelleher, D.E., Kr
  Produced as part of the 'CHIANTI' atomic data base collaboration by
 Giulio Del Zanna, May 2020
 
+-----------------------------------------------------------------------
+
+2023 October  Ken Dere
+
+Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2022). NIST Atomic Spectra Database (ver. 5.10), [Online]. Available: https://physics.nist.gov/asd [2023, October 9]. National Institute of Standards and Technology, Gaithersburg, MD. DOI: https://doi.org/10.18434/T4W30F
+
+updated levels 50, 51
+
+level 81:  inserted new NIST value
+
+level 39, 93:  inserted new values base on 
+
+Lepson, et al., 2023, ApJ, 946, 23
  -1
