@@ -1,17 +1,28 @@
-      1     2p4                               3  P    2.0          0.000          0.000
-      2     2p4                               3  P    1.0       2733.000       2885.960
-      3     2p4                               3  P    0.0       3827.000       4039.662
-      4     2p4                               1  D    2.0      41147.000      44450.772
-      5     2p4                               1  S    0.0      88206.000      89070.408
-      6     2s.2p5                            3  P    2.0     323005.000     333475.622
-      7     2s.2p5                            3  P    1.0     325476.000     336062.387
-      8     2s.2p5                            3  P    0.0     326824.000     337466.146
-      9     2s.2p5                            1  P    1.0     451383.000     472175.989
-     10     2p6                               1  S    0.0     755634.000     792386.025
+      1 2s2.2p4                               3    P  2.0          0.000          0.000
+      2 2s2.2p4                               3    P  1.0       2732.000       2886.000
+      3 2s2.2p4                               3    P  0.0       3829.000       4039.700
+      4 2s2.2p4                               1    D  2.0      41167.000      44450.800
+      5 2s2.2p4                               1    S  0.0      88213.000      89070.400
+      6 2s.2p5                                3    P  2.0     323002.000     333475.600
+      7 2s.2p5                                3    P  1.0     325469.000     336062.400
+      8 2s.2p5                                3    P  0.0     326815.000     337466.100
+      9 2s.2p5                                1    P  1.0     451396.000     472176.000
+     10 2p6                                   1    S  0.0     755628.000     792386.000
  -1
 %filename: al_6.elvlc
 %experimental energy levels: Edlen, B., 1983, Phys. Scr., 28, 51
 %theoretical energy levels: Landi, E., 2005, A&A, 434, 365
 % produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
-% 
+%
 % E. Landi - May 2004
+
+-----------------------------------------------------------------------------------
+
+all energies updated to 2023 NIST values:
+
+Observed energy levels:  Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2022).
+NIST Atomic Spectra Database (ver. 5.0), [Online]. Available: http://physics.nist.gov/asd [2023, October 28].
+National Institute of Standards and Technology, Gaithersburg, MD.
+
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+K. Dere (GMU) - 2023 October 29
