@@ -499,8 +499,7 @@
 %filename:  chianti.ioneq
 %ionization equilibrium:  CHIANTI
  produced as part of the CHIANTI atomic data base collaboration
-  Created on Wed Apr  5 17:14:12 2023
+  Created on Tue May 30 16:53:01 2023
 %comment:
-  Created for the CHIANTI 10.1 release by Peter Young using the routine
-  make_ioneq_all.pro.
+  Prepared for the release of CHIANTI 10.1.
  -1

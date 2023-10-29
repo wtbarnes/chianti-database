@@ -4197,4 +4197,5 @@ Produced for the CHIANTI database  by G. Del Zanna 7 Aug 2017
 %Peter Young, 28-Oct-2020
   - removed level 204 from this file as the collision strengths for this level
     are all zero. 
+%File processed with wgfa_tidy by pryoung on 31-May-2023
  -1
