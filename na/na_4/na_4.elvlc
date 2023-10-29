@@ -1,18 +1,28 @@
-      1     2s2.2p4                           3  P    2.0          0.000          0.000
-      2     2s2.2p4                           3  P    1.0       1107.000       1193.451
-      3     2s2.2p4                           3  P    0.0       1576.000       1700.779
-      4     2s2.2p4                           1  D    2.0      30841.000      34113.411
-      5     2s2.2p4                           1  S    0.0      66496.000      66821.751
-      6     2s.2p5                            3  P    2.0     243682.000     254177.417
-      7     2s.2p5                            3  P    1.0     244688.000     255249.703
-      8     2s.2p5                            3  P    0.0     245238.000     255831.168
-      9     2s.2p5                            1  P    1.0     343688.000     365154.968
-     10     2p6                               1  S    0.0     570823.000     608554.589
+      1 2s2.2p4                               3    P  2.0          0.000          0.000
+      2 2s2.2p4                               3    P  1.0       1106.300       1193.500
+      3 2s2.2p4                               3    P  0.0       1576.000       1700.800
+      4 2s2.2p4                               1    D  2.0      30839.800      34113.400
+      5 2s2.2p4                               1    S  0.0      66496.000      66821.800
+      6 2s.2p5                                3    P  2.0     243681.900     254177.400
+      7 2s.2p5                                3    P  1.0     244687.600     255249.700
+      8 2s.2p5                                3    P  0.0     245238.800     255831.200
+      9 2s.2p5                                1    P  1.0     343688.000     365155.000
+     10 2p6                                   1    S  0.0     570823.000     608554.600
  -1
 %filename: na_4.elvlc
-%experimental energy levels: Edlen, B., 1983, Phys. Scripta, 28, 51
 %theoretical energy levels 2s2p5, 2p6 conf.: Butler, K., Zeippen, C.J., 1994, AASS, 108, 1
 %theoretical energy levels 2s22p4 conf.: Galavis, M.E., Mendoza, C., Zeippen, C.J., 1997, AASS, 123, 159
 % produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
-% 
+%
 % E. Landi - May 2004
+
+---------------------------------------------------------------------------------------
+
+inserted observed energy levels from NIST:
+
+Observed energy levels:  Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2018).
+NIST Atomic Spectra Database (ver. 5.0), [Online]. Available: http://physics.nist.gov/asd [2023].
+National Institute of Standards and Technology, Gaithersburg, MD.
+
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
+K. Dere (GMU) - 2023 October 28
