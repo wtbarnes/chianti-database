@@ -1,7 +1,7 @@
       1     2s2 2p4                           3  P    2.0            0.0            0.0
       2     2s2 2p4                           3  P    1.0         7985.0         7719.3
       3     2s2 2p4                           3  P    0.0        10648.0        10416.4
-      4     2s2 2p4                           1  D    2.0        58293.9        61025.4
+      4     2s2 2p4                           1  D    2.0        58295.0        61025.4
       5     2s2 2p4                           1  S    0.0       122700.0       122683.6
       6     2s 2p5                            3  P    2.0       444987.0       451290.4
       7     2s 2p5                            3  P    1.0       451995.0       458368.5
@@ -555,12 +555,6 @@ Lepson et al, 2005, ApJ, 625, 1045
 Produced as part of the 'CHIANTI' atomic data base collaboration by
 Giulio Del Zanna, Mar 2023
 
------------------------------------------------------------------
 
-level 4 updated to 2023 NIST value
 
-NIST Atomic Spectra Database (ver. 5.0), [Online]. Available: http://physics.nist.gov/asd [2023, October 28].
-National Institute of Standards and Technology, Gaithersburg, MD.
-
-produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy
-K. Dere (GMU) - 2023 October 30
+ -1
