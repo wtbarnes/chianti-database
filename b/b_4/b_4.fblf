@@ -1,0 +1,8 @@
+        a0        a1        a2        b0        b1        b2        c0
+ 6.295e+02 7.933e+02 0.000e+00 7.459e-01 7.042e-01 0.000e+00 5.468e-03
+filename:  b_4.fblf 
+ parameters to calculate the free bound loss factor (fblf) of: 
+Mao J., Kaastra J., Badnell N.R., 2017, A&A, 599, A10 
+ 
+produced as a part of the 'CHIANTI' atomic database for astrophysical spectroscopy 
+ K. Dere (GMU) - 2023 November 07 
