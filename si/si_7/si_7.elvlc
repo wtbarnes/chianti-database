@@ -1,11 +1,11 @@
       1     2s2 2p4                           3  P    2.0            0.0            0.0
-      2     2s2 2p4                           3  P    1.0         4028.0         3881.6
-      3     2s2 2p4                           3  P    0.0         5568.0         5453.6
+      2     2s2 2p4                           3  P    1.0         4026.8         3881.6
+      3     2s2 2p4                           3  P    0.0         5567.1         5453.6
       4     2s2 2p4                           1  D    2.0        46568.0        49253.8
       5     2s2 2p4                           1  S    0.0        99343.0        98980.7
-      6     2s 2p5                            3  P    2.0       363160.0       369833.9
-      7     2s 2p5                            3  P    1.0       366774.0       373495.4
-      8     2s 2p5                            3  P    0.0       368752.0       375396.1
+      6     2s 2p5                            3  P    2.0       363150.0       369833.9
+      7     2s 2p5                            3  P    1.0       366760.0       373495.4
+      8     2s 2p5                            3  P    0.0       368740.0       375396.1
       9     2s 2p5                            1  P    1.0       505643.0       522483.7
      10     2p6                               1  S    0.0       849058.0       879108.6
      11     2s2 2p3 3s                        5  S    2.0      1150560.0      1166013.9
@@ -470,7 +470,9 @@ Note: only  bound levels have been retained.
 
 Observed energies:
 
-the version 10 energies for the lowest states have been retained:
+Levels 2,3 and 6-8: Young, P.R., 2023, ApJ, 958, 40
+
+Other energies: the version 10 energies for the lowest states have been retained:
 
 Edlen, B. 1983, Physica Scripta, 28, 51
 Kink, I., Jupen, C.,
@@ -486,5 +488,6 @@ https://physics.nist.gov/PhysRefData/ASD/levels_form.html
 Produced as part of the 'CHIANTI' atomic data base collaboration by
 Giulio Del Zanna, Mar 2023
 
+7-Mar-2024, Peter Young: updated energies for levels 2,3 and 6-8.
 
  -1
